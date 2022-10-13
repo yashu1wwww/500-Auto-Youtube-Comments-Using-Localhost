@@ -433,4 +433,4 @@ send_comment_button = driver.find_element_by_id("submit-button").click()
 
 driver.close()
 
-driver.close()
+
