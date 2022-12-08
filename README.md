@@ -1,20 +1,17 @@
 
 500+ Youtube Auto Comments Using Localhost ports using selenium with python
 
+https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
+<watch upto 3.46 then> 
 
-
-go to chrome and right click and go to in properties copy the start in line full and enter cmd and enter cd and paste the code and hit enter button in my case 
-my chrome properties start in line 
+ 
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-after added cd and pasted again
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-create a new folder in desktop and go to your chrome setting and you will find about version and see the version then download the same chromedriver and unzip that chromedriver and paste to the folder then in that folder only
-
-create new folder named as localhost then double click on localhost and copy the path and paste in below code where in last dir after where double inverted comma started 
+ 
 
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path") 
@@ -29,9 +26,9 @@ when opening 1.py you must open the localhost chrome where you created....
 
 in 12 line in code change if you needed other comments inside ...
 
-in 20th line change with your required movie url...
+in 20th line change with your required movie video url...
 
-thats all done the url will open in that opened localhost chrome and automatically do the comments....
+thats all done the url will open in that opened localhost chrome and automatically done the 500+ auto comments....
 
 in cmd enter
 
