@@ -45,10 +45,6 @@ and hit enter button
 
 And enter
 
-pip install selenium==4.2.1
-
-or 
-
 pip install selenium==4.2.0
 
 and hit enter
