@@ -2,27 +2,32 @@
 500+ Youtube Auto Comments Using Localhost ports using selenium with python
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
-<watch upto 3.46 then> 
+
+<watch upto 3.46 then remaining part copy the h.py script and save as h.py and paste that file there> 
 
  
-
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
+in my case chrome location
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
  
-
-
 chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path") 
 
 in my case
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"   #after copy these and paste in command prompt and hit enter button then it goes to new localhost chrome and its stores all data to you created localhost
-then login with your un authenticated google acc with password then 
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"  
 
-copy my h.py code and create a new text file in that folder an paste my code and save as your 1.py then in cmd enter 1.py or double click on 1.py python file...
-when opening 1.py you must open the localhost chrome where you created....
+then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
+
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost
+
+h.py
+
+you must login with your 10+ accounts to do 500+ auto comments... 
 
 in 12 line in code change if you needed other comments inside ...
 
