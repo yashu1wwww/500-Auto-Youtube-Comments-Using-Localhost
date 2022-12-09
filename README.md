@@ -22,7 +22,7 @@ then open cmd in that folder paste below 3 lines at a time and hit enter button(
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
 h.py
 
