@@ -16,6 +16,8 @@ option.add_experimental_option("debuggerAddress","localhost:9222")
 
 driver = webdriver.Chrome(options=option)
 
+time.sleep(2)
+
 driver.get("https://www.youtube.com/watch?v=Qah9sSIXJqk&ab_channel=HombaleFilms") #replace with your url
 
 time.sleep(7)
