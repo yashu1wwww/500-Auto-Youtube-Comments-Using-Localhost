@@ -12,7 +12,7 @@ in my case chrome location
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
  
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path") 
+chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
 
 in my case
 
