@@ -5,7 +5,9 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 <𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙝.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 𝙝.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚>
 
-After 200+ auto cmts connect vpn
+👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
+
+https://youtu.be/c9MAJpax5R0
 
  C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
