@@ -24,9 +24,11 @@ time.sleep(7)
 
 driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click()
 
-time.sleep(2)
+time.sleep(1)
 
 driver.execute_script("window.scrollTo(0, 600);")
+
+time.sleep(1)
 
 WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CSS_SELECTOR, "ytd-comments ytd-comment-simplebox-renderer")))
 
@@ -637,7 +639,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer/tp-yt-paper-icon-item/div').click()
+driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[1]/tp-yt-paper-icon-item/div').click()
 
 time.sleep(7)
 
@@ -1256,8 +1258,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer/tp-yt-paper-icon-item/div').click()
-
+driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[1]/tp-yt-paper-icon-item/div').click()
 
 time.sleep(7)
 
@@ -6198,5 +6199,6 @@ time.sleep(2)
 send_comment_button = driver.find_element_by_id("submit-button").click()
 
 time.sleep(30)
+
 
 
