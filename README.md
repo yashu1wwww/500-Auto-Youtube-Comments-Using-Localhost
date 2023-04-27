@@ -7,28 +7,35 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
 
+https://youtu.be/c9MAJpax5R0
+
 or after chrome opens using localhost 
 
 in extension on the other location using these
 
 https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
 
-https://youtu.be/c9MAJpax5R0
-
- C:\Users\Hp\AppData\Local\Google\Chrome\Application
+C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 in my case chrome location
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
- 
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
+ chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
 
-in my case
+In my case, the location for Chrome is:
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"  
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
+Next, enter this command into the terminal, replacing "enter your localhost path here" with your localhost path:
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="enter your localhost path here"
+
+For example, in my case it is:
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+
+Then, open the command prompt in that folder and paste the following three lines one at a time and press enter. (The code below assumes that you have watched the video and have set up the correct Chrome and localhost path.)
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
@@ -36,13 +43,13 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bot
 
 h.py
 
-you must login with your 10+ accounts to do 500+ auto comments... 
+To do 500+ auto comments, you must log in with 10+ accounts.
 
-in 11 & 12 line in code change if you needed other comments inside ...
+In lines 11 and 12 of the code, change the comments if you want to use something different.
 
-in 19th line change with your required movie video url...
+In line 19, change the movie video URL to the required URL.
 
-thats all done the url will open in that opened localhost chrome and automatically done the 500+ auto comments....
+That's it! The URL will open in the previously opened localhost Chrome and 500+ auto comments will be done automatically. 
 
 in cmd enter
 
