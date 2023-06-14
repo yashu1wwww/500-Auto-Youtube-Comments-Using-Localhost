@@ -17,19 +17,15 @@ https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobcho
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-in my case chrome location
+in my case chrome location(use start in:) is
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
- chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
+next,
 
-In my case, the location for Chrome is:
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
 
 Next, enter this command into the terminal, replacing "enter your localhost path here" with your localhost path:
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="enter your localhost path here"
 
 For example, in my case it is:
 
