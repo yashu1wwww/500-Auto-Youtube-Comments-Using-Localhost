@@ -56,7 +56,7 @@ while True:
         
 time.sleep(3)
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 2 acc logo
 
 time.sleep(3)
 
@@ -102,7 +102,7 @@ while True:
         
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 3 acc logo
 
 time.sleep(3)
 
@@ -148,7 +148,7 @@ while True:
         
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 4 acc logo
 
 time.sleep(3)
 
@@ -194,7 +194,7 @@ while True:
 
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 5 acc logo
 
 time.sleep(3)
 
@@ -240,7 +240,7 @@ while True:
 
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 6 acc logo
 
 time.sleep(3)
 
@@ -286,7 +286,7 @@ while True:
 
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 7 acc logo
 
 time.sleep(3)
 
@@ -332,7 +332,7 @@ while True:
 
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 8 acc logo
 
 time.sleep(3)
 
@@ -378,7 +378,7 @@ while True:
 
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 9 acc logo
 
 time.sleep(3)
 
@@ -424,7 +424,7 @@ while True:
 
 time.sleep(3)    
 
-driver.find_element_by_id("avatar-btn").click() #click on acc logo
+driver.find_element_by_id("avatar-btn").click() #click on 10 acc logo
 
 time.sleep(3)
 
