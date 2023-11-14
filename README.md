@@ -46,7 +46,10 @@ cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-## To do 500+ auto comments, you must log in with 10+ accounts.
+## To do 500+ auto comments, you must log in with 10+ accounts
+
+# after login with 10 accs add these extension
+https://shorturl.at/mtAER
 
 In lines 11 and 12 of the code, change the comments if you want to use something different.
 
