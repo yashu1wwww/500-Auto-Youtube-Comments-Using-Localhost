@@ -60,7 +60,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 2 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -106,7 +106,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 3 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -152,7 +152,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 4 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -198,7 +198,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 5 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -244,7 +244,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 6 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -290,7 +290,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 7 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -336,7 +336,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 8 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -382,7 +382,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 9 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -428,7 +428,7 @@ driver.find_element_by_id("avatar-btn").click() #click on 10 acc logo
 
 time.sleep(3)
 
-driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[1]/div[2]/ytd-compact-link-renderer[3]/a').click() #click on switch account
+driver.execute_script('document.querySelector("#items > ytd-compact-link-renderer:nth-child(2)").click()') #click on switch account
 
 time.sleep(3)
 
@@ -467,5 +467,6 @@ while True:
     except Exception as e:
         print("An error occurred:", e)
         break                
+
 
 
