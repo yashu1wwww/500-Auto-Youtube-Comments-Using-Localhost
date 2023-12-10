@@ -12,10 +12,6 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 or after chrome opens using localhost 
 
-in extension on the other location using these
-
-https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
-
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 in my case chrome location(use start in:) is
@@ -32,7 +28,7 @@ For example, in my case it is:
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
-then new terminal in that folder and enter h.py
+# then open  new terminal in that folder and enter h.py
 
 Then, open the command prompt in that folder and paste the following two lines one at a time and press enter. (The code below assumes that you have watched the video and have set up the correct Chrome and localhost path.)
 
