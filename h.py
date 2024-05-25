@@ -19,7 +19,7 @@ COMMENTS = [
     "all the best dude"
 ]
 VIDEO_URL = "https://www.youtube.com/watch?v=jNQXAC9IVRw&ab_channel=jawed" #replace with required
-COMMENTS_PER_ACCOUNT = 50 #No of Comments per acc (n0 50+)
+COMMENTS_PER_ACCOUNT = 50 #No of Comments per acc (no 50+)
 NUM_ACCOUNTS = 10 #replace how much accs want (no 10 more accs)
 
 
