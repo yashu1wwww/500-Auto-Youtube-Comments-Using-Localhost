@@ -8,7 +8,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 import random
 
-# Comments changes to required cmts
+# changes if you needed
 COMMENTS = [
     "super", "amazing one", "what a acting", "great video", "have a nice day",
     "keep going", "keep rocking", "all the best buddy", "next video please",
