@@ -1,7 +1,5 @@
 500+ Youtube Non Stop Auto Comments For Videos Using selenium with python on localhost
 
-# Note: Code updated in fewer lines
-
 # For Shorts:
 
 https://github.com/yashu1wwww/500-Youtube-Auto-Comments-For-Youtube-Shorts-Using-Localhost
