@@ -41,7 +41,7 @@ https://shorturl.at/mtAER
 
 In lines 11 of the code, change the comments if you want to use something different.
 
-In line 13, change the movie video URL to the required URL.
+In line 21, change the movie video URL to the required URL.
 
 press control + f and enter 50 and replace with how much cmts needed for each acc..
 
