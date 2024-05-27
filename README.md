@@ -39,13 +39,11 @@ after enter h.py or double click on h.py
 # after login with 10 accs add these extension
 https://shorturl.at/mtAER
 
-In lines 12 of the code, change the comments if you want to use something different.
+In lines 11 of the code, change the comments if you want to use something different.
 
-In line 21, change the movie video URL to the required URL.
+In line 13, change the movie video URL to the required URL.
 
-in line 22 - no of comments per acc
-
-in line 23 - no of accounts select to do auto comments
+press control + f and enter 50 and replace with how much cmts needed for each acc..
 
 That's it! The URL will open in the previously opened localhost Chrome and 500+ auto comments will be done automatically. 
 
