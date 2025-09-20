@@ -1,8 +1,4 @@
-500+ Youtube Non Stop Auto Comments For Videos Using selenium with python on localhost
-
-# For Shorts:
-
-https://github.com/yashu1wwww/500-Youtube-Auto-Comments-For-Youtube-Shorts-Using-Localhost
+500+ Youtube Non Stop Auto Comments For Videos and shorts Using selenium with python on localhost
 
 ## "If you know proxy rotation, then please fork it".
 
