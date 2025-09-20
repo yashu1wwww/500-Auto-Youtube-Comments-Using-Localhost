@@ -30,9 +30,9 @@ For example, in my case it is:
 
 pip install selenium==4.2.0
 
-after enter h.py or double click on h.py
-
 ## To do 500+ auto comments, you must log in with 10+ accounts
+
+## Each account must have 10 or more brand accounts to perform auto-comments. Replace the URL in the file with a YouTube video URL and run video.py for regular videos or shorts.py for YouTube Shorts.
 
 # after login with 10 accs add these extension
 https://shorturl.at/mtAER
@@ -47,7 +47,6 @@ That's it! The URL will open in the previously opened localhost Chrome and 500+ 
 
 -----------------------------------------------------------------------------------------------------
 # 👉 Note:Every time YouTube updates its code, it may vary. So, open the YouTube video, press *Ctrl + Shift + C* to open Developer Tools, inspect the elements, find the updated paths, and modify accordingly.
-
 
 ---------------------------------------------------------------------------------------------------------
 
