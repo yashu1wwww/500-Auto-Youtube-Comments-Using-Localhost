@@ -20,11 +20,12 @@ time.sleep(2)
 
 driver.get("https://youtu.be/jNQXAC9IVRw?feature=shared") #replace with your video url
 
-time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+pause_button = WebDriverWait(driver, 60).until(
+    EC.element_to_be_clickable((By.CSS_SELECTOR, "button.ytp-play-button"))
+)
+pause_button.click()
 
-time.sleep(1)
 
 driver.execute_script("window.scrollTo(0, 600);")
 
@@ -467,6 +468,7 @@ while True:
     except Exception as e:
         print("An error occurred:", e)
         break                
+
 
 
 
