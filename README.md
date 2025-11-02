@@ -20,6 +20,8 @@ in line enter
 
 ## chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here") 
 
+# Add Ads Blocker Extension To Works Quickly..
+
 Next, enter this command into the terminal, replacing "enter your localhost path here" with your localhost path:
 
 For example, in my case it is:
