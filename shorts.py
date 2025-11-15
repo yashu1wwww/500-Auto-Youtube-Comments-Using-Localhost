@@ -12,7 +12,7 @@ commentsDict = ["super","amazing one","what a acting","great video","have a nice
 "dashing","marvelous","next big video in internet","always good content hits","people will really liked these video","good food have humans good","all the best dude",] #change comments if you needed your wish comments means
 
 option = webdriver.ChromeOptions()
-option.add_experimental_option("debuggerAddress","localhost:8080")
+option.add_experimental_option("debuggerAddress","localhost:9222")
 
 driver = webdriver.Chrome(options=option)
 
@@ -427,4 +427,5 @@ while True:
     except Exception as e:
         print("An error occurred:", e)
         break                
+
 
