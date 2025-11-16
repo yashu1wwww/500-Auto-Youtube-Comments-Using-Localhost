@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdriver #10 gmails must login...
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
@@ -468,6 +468,7 @@ while True:
     except Exception as e:
         print("An error occurred:", e)
         break                
+
 
 
 
