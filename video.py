@@ -20,16 +20,13 @@ time.sleep(2)
 
 driver.get("https://youtu.be/jNQXAC9IVRw?feature=shared") #replace with your video url
 
+driver.find_element_by_css_selector("button.ytp-play-button").click() #Pause The Video 
 
-pause_button = WebDriverWait(driver, 60).until(
-    EC.element_to_be_clickable((By.CSS_SELECTOR, "button.ytp-play-button"))
-)
-pause_button.click()
-
+time.sleep(2)
 
 driver.execute_script("window.scrollTo(0, 600);")
 
-time.sleep(1)
+time.sleep(2)
 
 counter = 0
 while True:
@@ -69,7 +66,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
                              
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -115,7 +112,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -161,7 +158,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -207,7 +204,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -253,7 +250,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -299,7 +296,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -345,7 +342,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -391,7 +388,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
@@ -437,7 +434,7 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 time.sleep(7)
 
-driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click() #pause the video
+driver.find_element_by_css_selector("button.ytp-play-button").click() #pause the video
 
 time.sleep(2)
 
